@@ -1,3 +1,3 @@
-# Learn Terraform Pipelines - Kubernetes
+# Vault in Kubernetes
 
-This repo is a companion repo to the [Deploy Consul and Vault on Kubernetes with Run Triggers](https://learn.hashicorp.com/tutorials/terraform/kubernetes-consul-vault-pipeline?in=terraform/kubernetes), containing Terraform configuration files to provision an GKE cluster on GCP.
+This repo provides a demo non prodcution app that works with HashiCoprs Vault to demonstrate dynamic user credentials and trasit data encryption as a service 
